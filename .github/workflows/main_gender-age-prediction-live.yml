@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'gender-age-prediction-live'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_61F54F9E7FB14F4895C56FA7CB17569E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_36A0F802E02848D48951F9D6A4170B1A }}
